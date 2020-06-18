@@ -1,6 +1,6 @@
 # Primeiro desafio do GoStack utilizando Node.js
 
-### O desafio consistia em aplicar os métodos http `(POST, GET, PUT e DELETE)`, em uma aplicação onde seria possível criar repositórios e realizar a ação de dar like. 
+### O desafio consistia em aplicar os métodos http _(POST, GET, PUT e DELETE)_ , em uma aplicação onde seria possível criar repositórios e realizar a ação de dar like. 
 
 ```javascript
     app.post("/repositories", (request, response) => {
